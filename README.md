@@ -6,5 +6,5 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so your first task on the job is to build a set of data reports to provide the answers.
 
-Here is a link to my Tableau account to view my visual board
+Here is a link to my Tableau account to view my visual board:
 https://public.tableau.com/app/profile/jade.russell1927/viz/CityBikeData_16819431282720/GenderStartStationMap#1
